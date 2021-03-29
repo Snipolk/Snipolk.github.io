@@ -19,6 +19,12 @@
     }
   }
 
+
+
+  setTimeout(function() {
+    $('.credit').fadeOut('fast');
+  }, 1000);
+
   /**
    * Easy event listener function
    */
