@@ -852,8 +852,10 @@ p {
 
 .php-email-form .error-message {
   display: none;
-  color: #fff;
-  background: #ed3c0d;
+  /*color: #fff;*/
+  color: black;
+  /*#*/
+  background: #03fc0b;
   text-align: left;
   padding: 15px;
   margin-bottom: 15px;
